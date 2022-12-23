@@ -1,0 +1,22 @@
+.headingName{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    background-color: #00264d;
+    margin-top: 0;
+    font-family: Marker Felt;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+
+.pageNames{
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+    background-color: #00264d;
+    font-family: Marker Felt;
+    cursor: pointer;
+    font-size: medium;
+    height: 47px;
+}
